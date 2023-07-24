@@ -1,4 +1,4 @@
-- Hi, I’m O. 
+- Hi, I’m Olu. 
 - I’m interested in Data Analysis.
 - I’m currently learning SQL, R, and Python.
 - I’m looking to collaborate on just about any project that can strenthen my skills and understanding of data analytics .
