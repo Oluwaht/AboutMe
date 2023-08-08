@@ -1,8 +1,9 @@
-- Hi, I’m Olu. 
-- I’m interested in Data Analysis.
-- I’m currently learning SQL, R, and Python.
-- I’m looking to collaborate on just about any project that can strenthen my skills and understanding of data analytics .
+Salutations,
 
+I am Olu, an enthusiast of Data Analysis. Presently, I am immersed in mastering SQL, R, and Excell, Tableau, and Python. I eagerly seek collaborative projects to enhance my skills and insights in data analytics.
+
+Warm regards,
+Olu
 
 <!---
 Oluwaht/Oluwaht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
